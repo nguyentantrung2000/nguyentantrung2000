@@ -1,5 +1,5 @@
 ###  👋 my name is Nguyen Tan Trung (Bo) 
-#### I'm stundent of Hoa Sen university
+#### I'm student of Lotus University
 
 I made all this project just for learning and fun, I want to learn more and make more friends all around the world. It's really nice too meet you guys <3. 
 
