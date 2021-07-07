@@ -3,9 +3,8 @@
 
 I made all this project just for learning and fun, I want to learn more and make more friends all around the world. It's really nice too meet you guys <3. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentantrung2000&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentantrung2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills and Experience
