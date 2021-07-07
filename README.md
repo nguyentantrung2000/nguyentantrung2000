@@ -4,6 +4,8 @@
 I made all this project just for learning and fun, I want to learn more and make more friends all around the world. It's really nice too meet you guys <3. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentantrung2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentantrung2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills and Experience
 ![image](https://user-images.githubusercontent.com/77191389/124756976-4e13c780-df57-11eb-817f-d2845b5a61ad.png)
