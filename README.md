@@ -7,13 +7,20 @@
 I made all this project just for learning and fun, I want to learn more and make more friends all around the world. It's really nice too meet you guys <3. 
 
 ## Programming Languages:
-![image](https://user-images.githubusercontent.com/77191389/124756976-4e13c780-df57-11eb-817f-d2845b5a61ad.png)
-![image](https://user-images.githubusercontent.com/77191389/124756569-caf27180-df56-11eb-8191-94e4032d8a93.png) 
-![image](https://user-images.githubusercontent.com/77191389/124756648-e493b900-df56-11eb-933b-27bb8945a117.png) 
-![image](https://user-images.githubusercontent.com/77191389/124756772-0ab95900-df57-11eb-8f8a-179e95e01695.png)
-![image](https://user-images.githubusercontent.com/77191389/124756867-26246400-df57-11eb-84da-78e4efade156.png)
-## Frameworks/Platforms/Libraries:
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
 
+## Frameworks/Platforms/Libraries:
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 ## Other:
 
 
