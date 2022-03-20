@@ -1,10 +1,13 @@
 ## Hi, My name is Nguyen Tan Trung (Bo) 👋
 #### I'm student of Hoa Sen University
+<a href=https://www.instagram.com/tenrungone_/> <img src="https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram"> </a>
+
 
 I made all this project just for learning and fun, I want to learn more and make more friends all around the world. It's really nice too meet you guys <3. 
 
+<a href=https://www.facebook.com/nguyentantrung0/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
 <img src="https://github-readme-stats.vercel.app/api?username=nguyentantrung2000&theme=github_dark&show_icons=true&count_private=true">
-
+<a href=https://www.linkedin.com/in/nguyen-trung-021616211/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 
 
 ## Skills and Experience
