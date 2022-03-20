@@ -3,7 +3,7 @@
 
 I made all this project just for learning and fun, I want to learn more and make more friends all around the world. It's really nice too meet you guys <3. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentantrung2000&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=nguyentantrung2000&theme=github_dark&show_icons=true&count_private=true">
 
 
 
