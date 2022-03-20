@@ -1,6 +1,5 @@
 ## Hi, My name is Nguyen Tan Trung (Bo) 👋
 #### I'm student of Hoa Sen University
-<a href=https://www.facebook.com/nguyentantrung0/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
 <a href=https://www.instagram.com/tenrungone_/> <img src="https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram"> </a>
 <a href=https://www.linkedin.com/in/nguyen-trung-021616211/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 
